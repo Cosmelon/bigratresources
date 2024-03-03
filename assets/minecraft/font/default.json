@@ -1,0 +1,165 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/darkscreen.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/dev.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/fire.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/break.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/readyborderline.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/dead.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/alive.png",
+            "ascent": 11,
+            "height": 15,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/primshader.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame1.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE050"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame2.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE051"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame3.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE052"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame4.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE053"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame5.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE054"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame6.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE055"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame7.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE056"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame8.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE057"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame9.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE058"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame10.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE059"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame11.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE060"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame12.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE061"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame13.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE062"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/duck/frame14.png",
+            "ascent": 20,
+            "height": 128,
+            "chars": ["\uE063"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 22,
+        "description": {
+            "text": "bigrat dev build",
+            "color": "dark_gray"
+        }
+    }
+}

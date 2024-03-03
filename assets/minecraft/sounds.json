@@ -1,0 +1,56 @@
+{
+    "custom.bpmusic": {
+        "category": "voice",
+        "sounds": [
+            "custom/bpmusic"
+        ]
+    },
+    "custom.meme": {
+        "category": "voice",
+        "sounds": [
+            "custom/shotgun"
+        ]
+    },
+    "custom.bonesjoke": {
+        "category": "ambient",
+        "sounds": [
+            "custom/bonesjoke"
+        ]
+    },
+    "custom.race/lap": {
+        "category": "ambient",
+        "sounds": [
+            "custom/race/lap"
+        ]
+    },
+    "custom.race/start": {
+        "category": "ambient",
+        "sounds": [
+            "custom/race/start"
+        ]
+    },
+    "custom.race/finish": {
+        "category": "ambient",
+        "sounds": [
+            "custom/race/finish"
+        ]
+    },
+    "custom.race/music": {
+        "category": "voice",
+        "sounds": [
+            "custom/race/music"
+        ]
+    },
+    "custom.halls/death": {
+        "category": "voice",
+        "sounds": [
+            "custom/halls/death"
+        ]
+    },
+    "custom.halls/music": {
+        "category": "voice",
+        "sounds": [
+            "custom/halls/music"
+        ]
+    }
+}

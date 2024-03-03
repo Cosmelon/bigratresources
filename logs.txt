@@ -1,0 +1,22 @@
+v0.0.4 27/06/22 @ 21:10 EDT
+ - removed all sculk sensor sounds
+
+v0.0.5 29/06/22 @ 09:26 EDT
+
+v0.0.6 10/07/22 @ 17:36 EDT
+ - took out shader stuff
+ - removed gamemode.self
+ - removed carrot on a stick texture
+
+v0.0.7 25/07/22 @ 20:46 EDT
+ - added panorama because funny
+
+v0.0.8 10/08/22 @ 16:24 EDT
+ - added halls death sound
+ - added bunch of other shit I forgot lmao
+
+v0.0.9 13/08/22 @ 20:49 EDT
+ - added walter white to beacons
+ - added race music
+ - removed offhand box
+ - re-added shears texture
