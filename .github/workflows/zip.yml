@@ -1,0 +1,25 @@
+name: Zip Release
+on: [push]
+jobs: 
+    build:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Checkout code 
+          uses: actions/checkout@v2
+        - name: Pull latest and remove old file from repo
+          run: |
+            git config --global user.name "system"
+            git config --global user.email "system@example.com"
+            git config pull.rebase false
+            git pull
+            rm -f release.zip
+        - name: Archive Release
+          uses: thedoctor0/zip-release@master
+          with:
+            filename: 'release.zip'
+            exclusions: '*.git /node_modules/* .editorconfig'
+        - name: Push changes to remote
+          run: |
+            git add -A
+            git commit -m "new release"
+            git push --force
