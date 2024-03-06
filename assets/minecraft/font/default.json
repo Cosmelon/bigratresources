@@ -16,6 +16,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/elytra.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/dev.png",
             "ascent": 10,
             "height": 12,
