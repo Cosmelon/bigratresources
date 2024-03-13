@@ -540,5 +540,8 @@
 
   "space.-max": "\uF800%s",
   "gameMode.changed": "\uF80B",
-  "disconnect.lost": "Thanks for playing!"
+  "disconnect.lost": "Thanks for playing!",
+  "soundCategory.music": {"text":"Turn OFF!","color":"dark_red"},
+  "soundCategory.texttospeech": {"text":"Game SFX","color":"green"},
+  "soundCategory.weather": {"text":"Game Music","color":"green"}
 }

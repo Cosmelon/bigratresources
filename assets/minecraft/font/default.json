@@ -16,10 +16,31 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/elytra.png",
+            "file": "minecraft:custom/addelytra.png",
             "ascent": 10,
             "height": 12,
             "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/clearelytra.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/addtrident.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/cleartrident.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uE104"]
         },
         {
             "type": "bitmap",
